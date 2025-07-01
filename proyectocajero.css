@@ -1,0 +1,45 @@
+.comenzar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    background-color: white;
+}
+.inicio{
+    border-radius: 20%;
+    margin: auto;
+    background-color: white;
+    height: 600px;
+    width: 800px;
+}
+
+.inicio button{
+    width: 60px;
+    height: 30px;
+    margin-left: 370px;
+    margin-bottom: 10px;
+}
+.inicio h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: cursive;
+}
+.inicio img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.foco img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 880px;
+    background-color: white;
+}
+.oficial{
+    background-color: white;
+    flex-wrap: wrap;
+}
